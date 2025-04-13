@@ -16,12 +16,12 @@ body {
 
 h1 {
     font-family: "Josefin Sans", sans-serif;
-    font-size: 2em;
-    letter-spacing: calc(1.2em * 1.2);
+    font-size: 2rem;
+    letter-spacing: calc(2rem * 1.2);
     text-shadow: 2px 2px 4px yellow;
     border-bottom: solid 3px rgb(115, 115, 114);
 }
 
-#basic{
+#basic > p {
     font-weight: bold;
 }
